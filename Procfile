@@ -1,1 +1,1 @@
-worker: python src/config.py
+worker: python src/main.py
