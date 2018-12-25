@@ -5,7 +5,7 @@ import config
 
 cfg = config.load_config()
 
-bot = commands.Bot(command_prefix=cfg["prefix"])
+bot = commands.Bot(command_prefix=cfg["NTI3MDA3NDE2MTI3MDYyMDM3.DwOreg.cR6Grg2nYszPsDj09f_vcc200Oc"])
 
 
 @bot.event
